@@ -18,9 +18,17 @@ Empathy • Resilience • Collaboration • Good Listener • Creative • Time
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leomdkk30-hub&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leomdkk30-hub&theme=darkhub&row=1&column=6&margin-w=10"/>
 </p>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leomdkk30-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomdkk30-hub&layout=compact&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leomdkk30-hub&theme=dark"/>
+</p>
 ---
 
 ### 🔥 Main Skills:
