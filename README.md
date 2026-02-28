@@ -66,7 +66,7 @@ Empathy • Resilience • Collaboration • Good Listener • Creative • Time
 
 <div align="center">
 <br><b>Visitors Count</b><br>
-<img src="https://profile-counter.glitch.me/leomdkk30-hub/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=leomdkk30-hub&color=8B0000&style=for-the-badge" alt="contador de visitas"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=160&section=footer"/>
