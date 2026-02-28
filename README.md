@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LEANDRO+FERREIRA;I'm+26+years+old;I+Am+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leomdkk30-hub&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomdkk30-hub&layout=compact&hide_border=true&title_color=FF0000&text_color=FF0000&bg_color=0d1117" />
-</div>
 
 ---
 
@@ -16,15 +12,6 @@ Empathy • Resilience • Collaboration • Good Listener • Creative • Time
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leomdkk30-hub&theme=darkhub&row=1&column=6&margin-w=10"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leomdkk30-hub&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomdkk30-hub&layout=compact&theme=dark"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=leomdkk30-hub&theme=dark"/>
